@@ -1,0 +1,30 @@
+@cor: blue;
+@cor2: green;
+@cor3: rgb(245, 245, 226);
+@width: 0.75;   
+
+.drop-shadow {
+    text-shadow: 2px 1px 1px #ccc;
+    text-decoration: underline;
+}
+
+h1 {
+    .cores(50px, 'h1');
+}
+
+p {
+    .cores(23px, 'p');
+}
+
+.cores(@tamanho, @tag) {
+    color: @cor;
+    font-size: @tamanho;
+
+    & when (@tag = 'h1') {
+        text-shadow: 2px 1px 1px #7a7b7c;
+    }
+    & when (@tag = 'p') {
+        background-color: lightgreen;
+    }
+    
+}

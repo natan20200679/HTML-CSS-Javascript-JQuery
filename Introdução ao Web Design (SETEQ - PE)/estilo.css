@@ -1,0 +1,22 @@
+body {
+      background: #000000 url (C:\Users\natan\Pictures\IMG-20160227-WA0076.jpg) no-repeat fixed center;
+      color: #FFFFFF
+      
+}
+
+a {
+   color: #FFFFFF;
+   font-family: Arial, Helvetica, sans-serif;
+   font-weight: bold;
+   font-size: 8pt;
+
+a: hover {
+          text-decoration: underline;    
+}
+
+address {
+         text-transform: uppercase;
+         text-align: center;
+         font-family: Arial, Helvetica, sans-serif;
+         font-size: 7pt;
+}

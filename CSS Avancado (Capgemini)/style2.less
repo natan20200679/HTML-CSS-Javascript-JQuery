@@ -1,0 +1,25 @@
+@cor: blue;
+@cor2: green;
+@cor3: rgb(245, 245, 226);
+@width: 0.75;   
+
+.drop-shadow {
+    text-shadow: 2px 1px 1px #ccc;
+    text-decoration: underline;
+}
+
+h1 {
+    .cores();
+    text-shadow: 2px 1px 1px;
+    font-size: 50px;
+}
+
+p {
+    .cores();
+}
+
+.cores {
+    color: @cor;
+    background-color: @cor * 0.2;
+    font-size: 23px;
+}

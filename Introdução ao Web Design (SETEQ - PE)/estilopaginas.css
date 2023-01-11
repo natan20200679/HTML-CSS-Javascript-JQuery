@@ -1,0 +1,93 @@
+body {
+      margin: 0px;
+      padding: 0px;
+      background: #000000 url (C:\Users\natan\Pictures\IMG-20160227-WA0076.jpg) no-repeat fixed center;
+      color: #FFFFFF;
+      font-family: Arial, Helvetica, Sans-Serif;
+}
+
+section {
+         position: fixed;
+         right: 0px;
+         width: 300px;
+         min-height: 100%;
+         padding: 0px 0px 0px 10px;
+         background: #000000;
+         opacity: 0.9;
+}
+
+nav {
+     text-align: center;
+}
+
+iframe {
+        position: absolute;
+        width: 290px;
+        min-height: 80%;
+        border: 0px;
+}
+
+footer {
+        position: absolute;
+        bottom: 0px;
+        width: 290px;
+        text-align: center;
+}
+
+h1 {
+    width: 100%;
+    height: 74px;
+    background: url (C:\Users\natan\Pictures\IMG-20160227-WA0076.jpg);
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 16px;
+    font-weight: normal;
+}
+
+p {
+   font-size: 12px;
+   text-align: justify;
+   margin-left: 10px;
+}
+
+a {
+   color: #FFFFFF;
+   font-family: Arial, Helvetica, Sans-Serif;
+   font-weight:bold;
+   font-size: 8pt;
+}
+
+a: hover {
+          color: #999999;
+}
+
+#video_background {
+                   position: absolute;
+                   bottom: 0px;
+                   right: 0px;
+                   min-width: 100%;
+                   min-height: 100%;
+                   width: auto;
+                   height: auto;
+                   z-index: -1000;
+                   overflow: hidden;
+}
+
+ul {
+    font-size: 12px;
+    list-style-type: square;
+}
+
+table {
+       width: 100%;
+       border: 2px #333333 solid;
+       font-size: 12px;
+}
+
+td {
+    background-color: #333333;
+}
