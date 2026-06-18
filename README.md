@@ -1,4 +1,4 @@
-# Linguagens HTML, CSS, Javascript, Biblioteca de Funções Javascript (JQuery) e Framework Web Bootstrap
+# Linguagens HTML, CSS, Javascript e Biblioteca de Funções Javascript (JQuery)
 - Exemplo de código em HTML e CSS, utilizando o pré-processador Less(CSS) -> [CSS Avançado (Capgemini)](https://bitbucket.org/natan_bitbucket/html-css-javascript-jquery-e-bootstrap/src/main/CSS%20Avancado%20(Capgemini)/)
 - Exemplos de códigos em HTML e CSS -> [HTML - CSS (Capgemini)](https://bitbucket.org/natan_bitbucket/html-css-javascript-jquery-e-bootstrap/src/main/HTML%20-%20CSS%20(Capgemini)/), [Introdução Ao Web Design](https://bitbucket.org/natan_bitbucket/html-css-javascript-jquery-e-bootstrap/src/main/Introdu%C3%A7%C3%A3o%20ao%20Web%20Design%20(SETEQ%20-%20PE)/)
 - Exemplo de códigos em HTML e Javascript (interno ao HTML) -> [Javascript](https://bitbucket.org/natan_bitbucket/html-css-javascript-jquery-e-bootstrap/src/main/Javascript/)
