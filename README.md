@@ -1,2 +1,7 @@
 # Linguagens HTML, CSS, Javascript, Biblioteca de Funções Javascript (JQuery) e Framework Web Bootstrap
-- Exemplo de código em HTML e CSS, utilizando o pré-processador Less(CSS) -> [CSS Avacado (Capgemini)](https://bitbucket.org/natan_bitbucket/html-css-javascript-jquery-e-bootstrap/src/main/CSS%20Avancado%20(Capgemini)/)
+- Exemplo de código em HTML e CSS, utilizando o pré-processador Less(CSS) -> [CSS Avançado (Capgemini)](https://bitbucket.org/natan_bitbucket/html-css-javascript-jquery-e-bootstrap/src/main/CSS%20Avancado%20(Capgemini)/)
+- Exemplos de códigos em HTML e CSS -> [HTML - CSS (Capgemini)](https://bitbucket.org/natan_bitbucket/html-css-javascript-jquery-e-bootstrap/src/main/HTML%20-%20CSS%20(Capgemini)/), [Introdução Ao Web Design](https://bitbucket.org/natan_bitbucket/html-css-javascript-jquery-e-bootstrap/src/main/Introdu%C3%A7%C3%A3o%20ao%20Web%20Design%20(SETEQ%20-%20PE)/)
+- Exemplo de códigos em HTML e Javascript (interno ao HTML) -> [Javascript](https://bitbucket.org/natan_bitbucket/html-css-javascript-jquery-e-bootstrap/src/main/Javascript/)
+- Códigos em HTML, contendo exemplos de códigos em JQuery -> [JQuery (Capgemini)](https://bitbucket.org/natan_bitbucket/html-css-javascript-jquery-e-bootstrap/src/main/JQuery%20(Capgemini)/)
+- Projeto com HTML, CSS e Javascript -> [Projeto Jogo Snake](https://bitbucket.org/natan_bitbucket/html-css-javascript-jquery-e-bootstrap/src/main/Projeto%20Jogo%20Snake/)
+- Projeto com HTML, CSS, Javascript e JQuery -> [Projeto Netflix](https://bitbucket.org/natan_bitbucket/html-css-javascript-jquery-e-bootstrap/src/main/Projeto%20Netflix/)
